@@ -10548,3 +10548,8 @@ h6,
 	padding: 0;
 	list-style-type: none;
 }
+
+a[href^="tel"] {
+	color: inherit;
+	text-decoration: none;
+}
