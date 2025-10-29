@@ -9005,7 +9005,7 @@ h6,
 	}
 }
 .carousel-item {
-	max-height: 600px;
+	height: 57vh;
 }
 .carousel-caption {
 	top: 0;
